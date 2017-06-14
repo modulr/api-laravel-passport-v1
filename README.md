@@ -70,5 +70,5 @@ Authentication Routes
 
 User 
 
--/user
+- /user
 
